@@ -39,7 +39,7 @@ Throughout this comprehensive course, I covered a massive amount of tools and te
 ![certificate2](https://github.com/diorithaliti/Web-Development-Bootcamp/assets/74361197/a838407e-0896-45a2-a83c-c12373c90dd6)
 
 
-c
+
 
 ---
 
