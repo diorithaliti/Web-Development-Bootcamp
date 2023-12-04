@@ -1,6 +1,5 @@
-TinDog Starting Files
+# TinDog
 
-![Tindog](https://github.com/diorithaliti/Tindog/assets/74361197/a6b3f505-1d9b-49ec-a70b-71d7cbe62d99)
-
-My first web page, a fictional Tindog application, made with Bootstrap.
-Has interactive elements such as navigation and carousels.
+## My first web page, a fictional Tindog application, made with Bootstrap.
+## Has interactive elements such as navigation and carousels.
+![Tindog](https://github.com/diorithaliti/Web-Development-Bootcamp/assets/74361197/58bb1b28-70ae-4b6d-9609-1f2bc127f1cd)
