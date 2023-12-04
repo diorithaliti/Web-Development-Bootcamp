@@ -55,13 +55,17 @@
 - Deployment with GitHub Pages
 
 
-
+---
 
 ![certificate2](https://github.com/diorithaliti/Web-Development-Bootcamp/assets/74361197/a838407e-0896-45a2-a83c-c12373c90dd6)
 
 
+This certificate above verifies that Diorit Haliti completed the course 
+[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  on 30/3/2022 as taught by Dr. Angela Yu on Udemy. 
+The certificate indicates the entire course was completed as validated by the student. 
+The course duration represents the total video hours of the course at the time of most recent completion.
 
 
-
+---
 
  ### @diorithaliti 2023
