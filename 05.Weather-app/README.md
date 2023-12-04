@@ -1,5 +1,5 @@
 # Weather-app
-
+ 
 
 
 Constructed with Node.js and Express, this weather web application fetches live weather data from the OpenWeatherMap API in response to user input.
