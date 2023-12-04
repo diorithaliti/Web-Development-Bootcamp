@@ -1,22 +1,28 @@
 
 
 # The Complete 2023 Web Development Bootcamp
-- [Tindog](01.Tindog): Working with Variables in Python to Manage Data
-- [Dice-Game](02.Dice-game): Understanding Data Types and How to Manipulate Strings
-- [Drum-Game](03.Drum-game): Control Flow and Logical Operators
-- [Simon-Game](04.Simon-game): Randomisation and Python Lists
-- [Weather-App](05.Weather-app): Python Loops
-- [EJS-Secret-Project](06.EJS-secret-project): Python Functions & Karel
-- [Newsletter-Signup](07.Newsletter-signup): Hangman
-- [Todolist](08.Todolist): Function Parameters & Caesar Cipher
-- [Fruits-Project](09.Fruits-project): Dictionaries, Nesting and the Secret Auction
-- [Wiki-Api](10.Wiki-API): Function Return Values and the Calculator Project
-- [Blog-With-Database](11.Blog-with-database): Blackjack Capstone Project
-- [Todolist-With-Database](12.Todolist-with-database): Scope and Namespacing in Python
-- [Secrets](13.Secrets-main): Debugging: How to Find and Fix Errors in your Code
-- [Keeper-App](14.Keeper-App): Higher Lower Game Project
 
-Throughout this comprehensive course, I covered a massive amount of tools and technologies, including:
+### HTML & CSS
+- [Tindog](01.Tindog): My first web page, a fictional Tindog application, made with Bootstrap.Has interactive elements such as navigation and carousels.
+### Javascript
+- [Dice-Game](02.Dice-game): Dice Roller Game: A simple web-based dice game built with HTML, CSS, and JavaScript. Roll two dice, and the player with the higher number wins.
+- [Drum-Game](03.Drum-game): A drum kit web application where users can either click drum buttons or press corresponding keys on their keyboard to produce drum sounds. 
+- [Simon-Game](04.Simon-game): The Simon game: a classic memory game where players repeat a sequence of lights and sounds in an increasingly challenging pattern.
+### Node.js
+- [Weather-App](05.Weather-app): Weather app: provides current weather conditions, and basic meteorological information for a specified location.
+- [EJS-Secret-Project](06.EJS-secret-project): Secret project: a website where you can tell your secrets
+- [Newsletter-Signup](07.Newsletter-signup): Newsletter sign-up: a website that allows users to subscribe to receive regular updates, made with Mailchimp.
+- [Todolist](08.Todolist): Todolist: enables users to organize and manage their tasks efficiently by creating, editing, and prioritizing lists.
+### Mongo.DB
+- [Fruits-Project](09.Fruits-project): Introducion to Mongo.DB database, a project to practice CRUD operations.
+- [Wiki-Api](10.Wiki-API): Wiki-API: allowing users to retrieve and contribute information through standardized interfaces and queries.
+- [Blog-With-Database](11.Blog-with-database): Blog website: a platform where individuals can regularly publish and share articles, all the work will be saved in databases.
+- [Todolist-With-Database](12.Todolist-with-database): Now updated with MongoDB database.
+- [Secrets](13.Secrets-main): Now upgraded with database and authentication login.
+ ### React.js
+- [Keeper-App](14.Keeper-App): Keeper-app: A ReactJS made project that allows users to create, edit, and collaborate on slideshows in real-time.Based on Google-Slides.
+
+## Throughout this comprehensive course, I covered a massive amount of tools and technologies, including:
 
 - Front-End Web Development
 - HTML 5
