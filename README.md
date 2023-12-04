@@ -2,7 +2,7 @@
 
 # Web Development 
 
-### "The Complete 2023 Web Development Bootcamp" from Udemy
+### "The Complete 2023 Web Development Bootcamp" course from Udemy
 
 #### HTML & CSS
 - [Tindog](01.Tindog): My first web page, a fictional Tindog application, made with Bootstrap.Has interactive elements such as navigation and carousels.
@@ -62,6 +62,6 @@
 
 
 
----
 
- @diorithaliti 2023
+
+ ### @diorithaliti 2023
