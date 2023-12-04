@@ -6,7 +6,7 @@
 - [Drum-Game](03.Drum-game): Control Flow and Logical Operators
 - [Simon-Game](04.Simon-game): Randomisation and Python Lists
 - [Weather-App](05.Weather-app): Python Loops
-- [EJS-Secret-Project](06.EJS-Secret-project): Python Functions & Karel
+- [EJS-Secret-Project](06.EJS-secret-project): Python Functions & Karel
 - [Newsletter-Signup](07.Newsletter-signup): Hangman
 - [Todolist](08.Todolist): Function Parameters & Caesar Cipher
 - [Fruits-Project](09.Fruits-project): Dictionaries, Nesting and the Secret Auction
