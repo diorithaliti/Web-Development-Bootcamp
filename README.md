@@ -13,8 +13,8 @@
 - [Wiki-Api](10.Wiki-API): Function Return Values and the Calculator Project
 - [Blog-With-Database](11.Blog-with-database): Blackjack Capstone Project
 - [Todolist-With-Database](12.Todolist-with-database): Scope and Namespacing in Python
-- [Secrets](13.Secrets): Debugging: How to Find and Fix Errors in your Code
-- [Keeper-App](14.Keeper-app): Higher Lower Game Project
+- [Secrets](13.Secrets-main): Debugging: How to Find and Fix Errors in your Code
+- [Keeper-App](14.Keeper-App): Higher Lower Game Project
 
 Throughout this comprehensive course, I covered a massive amount of tools and technologies, including:
 
