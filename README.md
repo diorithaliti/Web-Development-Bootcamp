@@ -1,20 +1,20 @@
 
 
 # The Complete 2023 Web Development Bootcamp
-- [TINDOG](01.Tindog): Working with Variables in Python to Manage Data
+- [Tindog](01.Tindog): Working with Variables in Python to Manage Data
 - [Dice-Game](02.Dice-game): Understanding Data Types and How to Manipulate Strings
-- [Day 3](day03): Control Flow and Logical Operators
-- [Day 4](day04): Randomisation and Python Lists
-- [Day 5](day05): Python Loops
-- [Day 6](day06): Python Functions & Karel
-- [Day 7](day07): Hangman
-- [Day 8](day08): Function Parameters & Caesar Cipher
-- [Day 9](day09): Dictionaries, Nesting and the Secret Auction
-- [Day 10](day10): Function Return Values and the Calculator Project
-- [Day 11](day11): Blackjack Capstone Project
-- [Day 12](day12): Scope and Namespacing in Python
-- [Day 13](day13): Debugging: How to Find and Fix Errors in your Code
-- [Day 14](day14): Higher Lower Game Project
+- [Drum-Game](03.Drum-game): Control Flow and Logical Operators
+- [Simon-Game](04.Simon-game): Randomisation and Python Lists
+- [Weather-App](05.Weather-app): Python Loops
+- [EJS-Secret-Project](06.EJS-Secret-project): Python Functions & Karel
+- [Newsletter-Signup](07.Newsletter-signup): Hangman
+- [Todolist](08.Todolist): Function Parameters & Caesar Cipher
+- [Fruits-Project](09.Fruits-project): Dictionaries, Nesting and the Secret Auction
+- [Wiki-Api](10.Wiki-API): Function Return Values and the Calculator Project
+- [Blog-With-Database](11.Blog-with-database): Blackjack Capstone Project
+- [Todolist-With-Database](12.Todolist-with-database): Scope and Namespacing in Python
+- [Secrets](13.Secrets): Debugging: How to Find and Fix Errors in your Code
+- [Keeper-App](14.Keeper-app): Higher Lower Game Project
 
 Throughout this comprehensive course, I covered a massive amount of tools and technologies, including:
 
